@@ -15,14 +15,14 @@ The client needed a digital solution to capture customer data and streamline the
 
 ### 1. Smart Location & Order Routing (Activity Diagram)
 Designed the logical flow for location-based access. The system validates the user's PIN code to ensure they are within the 7km service area before allowing access to the store, and dynamically routes the checkout process based on subscription or standard order types[cite: 1, 2].
-*(Add your Activity Diagram PNG here)*
+![Process Flowchart](process-flowchart.png)
 
 ### 2. System Actors & Interactions (Use Case Diagram)
 Mapped out the distinct permissions and system interactions for three primary actors: Customers, Store Admins, and Delivery Partners. This includes complex use cases like Binance cryptocurrency payment integrations and managing same-day delivery logistics[cite: 1, 3].
-*(Add your Use Case Diagram PNG here)*
+![Use Case Diagram](use-case-diagram.png)
 
 ### 3. Subscription & Multi-Store Management
 Authored requirements for a centralized admin panel that controls inventory across two physical branches and generates automated morning dispatch lists for active milk and grocery subscriptions[cite: 1]. 
 
 ## 📥 Access the Full Documentation
-[Link to the Fresh_to_Home_SRS.pdf in your repository]
+[📄 View the Full SRS Document (PDF)](./Fresh_to_Home_SRS_Document.pdf)
